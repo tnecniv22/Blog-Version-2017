@@ -3,7 +3,7 @@ layout: post
 title:  "Pipe Support Design at Andrews.engineer"
 date:   2017-08-31
 excerpt: " A fun project during my summer 2017 co-op term"
-feature: <img src="//assets/img/Andrews/IMG_2398.JPG">
+feature: <img src="/assets/img/Andrews/IMG_2398.JPG">
 project: true
 tag:
 - engineering
@@ -11,6 +11,7 @@ tag:
 comments: false
 ---
 
+## Overview
 During My past co-op term at Andrews.engineer, I had the opportunity of modeling and helping to design a support system for a manhole and pipes that we were going to install in our warehouse.
 
 ## Design
@@ -20,11 +21,12 @@ This is the design I drafted in Google Sketchup.
 	<img src="/assets/img/Andrews/mh overview wood boxes.png">
 </figure>
 
+## Construction
 About a month later, construction began.
 
 <figure class="third">
 	<img src="/assets/img/Andrews/IMG_2566.JPG">
-	<img src="/assets/img/Andrews/IMG_2567.JPG">
+	<img src="/assets/img/Andrews/IMG_2567.jpeg">
 	<img src="/assets/img/Andrews/IMG_2592.JPG">
 	<figcaption>Detailed shots of the interior; filling the boxes with gravel.</figcaption>
 </figure>
