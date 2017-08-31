@@ -16,7 +16,7 @@ These people are architects and engineers whose designs and contributions to the
 
 * [T. Y. Lin](https://en.wikipedia.org/wiki/Tung-Yen_Lin), structural engineer who pioneered the use of prestressed concrete. He focused on aesthetics as well as functionality, designing many bridges and buildings, including the San Francisco - Oakland Bay Bridge.
 
-* [Frank Lloyd Wright](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright), American architect who integrated buildings seamlessly with the environment. Some of his works include the Solomon R. Guggenheim Museum in New York, and Fallingwater, in Pennsylvania.
+* [Frank Lloyd Wright](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright), American architect who integrated buildings seamlessly with the environment. Some of his works include the Solomon R. Guggenheim Museum in New York, and the Fallingwater house in Pennsylvania.
 
 * [I. M. Pei](https://en.wikipedia.org/wiki/I._M._Pei), Chinese-American architect who designed the Louvre Pyramids in Paris, and recipient of the Pritzker Prize, the highest honor in architecture.
 
