@@ -3,7 +3,7 @@ layout: post
 title:  "Pipe Support Design at Andrews.engineer"
 date:   2017-08-31
 excerpt: " A fun project during my summer 2017 co-op term"
-feature: <img src="/assets/img/Andrews/IMG_2398.JPG">
+feature: <img src="//assets/img/Andrews/IMG_2398.JPG">
 project: true
 tag:
 - engineering
