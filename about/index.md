@@ -7,7 +7,7 @@ comments: false
 ---
 
 Aspiring Architect, Engineer, and Developer. Baseball player, avid reader, and pianist. Above all, a follower of Jesus Christ.
-I Study Civil Engineering at the University of Waterloo. This is my <a href="/assets/img/About/Resume.pdf">Resume</a>.
+I Study Civil Engineering at the University of Waterloo; this is my <a href="/assets/img/About/Resume.pdf">Resume</a>.
 
 > Trust in the Lord with all your heart; do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths. Proverbs 3:5-6
 
