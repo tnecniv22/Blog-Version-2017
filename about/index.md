@@ -44,3 +44,5 @@ These are books that I'm currently reading!
 	<img src="/assets/img/About/IMG_2371.JPG">
 	<figcaption>Now get your butt off that chair and explore what the world has to offer.</figcaption>
 </figure>
+
+> Background Photo: Taiwan
