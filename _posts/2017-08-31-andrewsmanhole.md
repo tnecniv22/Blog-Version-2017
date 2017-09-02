@@ -12,7 +12,7 @@ comments: false
 ---
 
 ## Overview
-During My past co-op term at Andrews.engineer, I had the opportunity of modeling and helping to design a support system for a manhole and pipes that we were going to install in our warehouse.
+During My past co-op term at [Andrews.Engineer](http://www.andrews.engineer), I had the opportunity of modeling and helping to design a support system for a manhole and pipes that we were going to install in our warehouse.
 
 ## Design
 This is the design I drafted in Google Sketchup.
