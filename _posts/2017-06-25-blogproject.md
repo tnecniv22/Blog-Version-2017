@@ -7,8 +7,6 @@ project: true
 tag:
 - jekyll
 - blog
-- about
-- theme
 comments: false
 ---
 ## Some Interesting Things about this site
