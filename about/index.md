@@ -14,14 +14,16 @@ I Study Civil Engineering at the University of Waterloo; this is my <a href="/as
 ## People I'm Inspired By
 These people are architects and engineers whose designs and contributions to the world I greatly admire.
 
-* [T. Y. Lin](https://en.wikipedia.org/wiki/Tung-Yen_Lin), structural engineer who pioneered the use of prestressed concrete. He focused on aesthetics as well as functionality, designing many bridges and buildings, including the San Francisco - Oakland Bay Bridge.
+* [T. Y. Lin](https://en.wikipedia.org/wiki/Tung-Yen_Lin), structural engineer who pioneered the use of prestressed concrete. He focused on aesthetics as well as functionality, designing many bridges and buildings, including the Taipei Taoyuan International Airport.
 
 * [Frank Lloyd Wright](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright), American architect who integrated buildings seamlessly with the environment. Some of his works include the Solomon R. Guggenheim Museum in New York, and the Fallingwater house in Pennsylvania.
 
 * [I. M. Pei](https://en.wikipedia.org/wiki/I._M._Pei), Chinese-American architect who designed the Louvre Pyramids in Paris, and recipient of the Pritzker Prize, the highest honor in architecture.
 
 ## Reading list
+
 In a society where everything is instant, I find it very helpful to take a step back and read. It forces us to stay focused, teaches us to stay engaged, and allows us to view the world in a different light. Below, I have included books that I've really enjoyed, which I encourage you all to read!
+
 #### Current books
 These are books that I'm currently reading!
 
