@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "How to be Dejected"
-date:   2017-09-11
+title: "How to be Dejected"
+date: 2017-09-11
 excerpt: "Read this if you want..."
-project: false
-tag:
-- random thoughts
+tags: [random thoughts]
 comments: false
 ---
 

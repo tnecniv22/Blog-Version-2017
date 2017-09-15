@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://127.0.0.1:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000//" rel="alternate" type="text/html" /><updated>2017-09-14T22:17:12-04:00</updated><id>http://127.0.0.1:4000//</id><title type="html">Vincent</title><subtitle>Some random guy in Canada.</subtitle><entry><title type="html">How to be Dejected</title><link href="http://127.0.0.1:4000//dejections/" rel="alternate" type="text/html" title="How to be Dejected" /><published>2017-09-11T00:00:00-04:00</published><updated>2017-09-11T00:00:00-04:00</updated><id>http://127.0.0.1:4000//dejections</id><content type="html" xml:base="http://127.0.0.1:4000//dejections/">&lt;p&gt;So you want to learn how to be dejected, right? Here are the steps to get you started.&lt;/p&gt;
+
+&lt;h4 id=&quot;browse-all-day&quot;&gt;Browse all day&lt;/h4&gt;
+&lt;p&gt;Spend your whole day on your phone, computer, or tablet. Never let an instant go by without looking at a screen. Whether you are at home, at school, or at work, always make sure every available second is spent browsing facebook, instagram, or any other website. Never mind the fact that they gather data about you to feed you information that will satisfy your interests; rather, make sure you keep reading the suggested links that pop up or watch the recommended videos. It will only lead you to more screen time.&lt;/p&gt;
+
+&lt;h4 id=&quot;get-less-sleep&quot;&gt;Get less sleep&lt;/h4&gt;
+&lt;p&gt;Sleep past midnight everyday. Whether its browsing your phone, partying into the early morning hours, or pulling all-nighters, do them all. No wonder you feel terrible when you wake up the next day.&lt;/p&gt;
+
+&lt;h4 id=&quot;stay-in-your-room&quot;&gt;Stay in your room&lt;/h4&gt;
+&lt;p&gt;Besides, its raining outside right? Even if it’s sunny, and other people are tossing a frisbee or going for a walk, ignore the call to join them. Its better to watch videos on youtube, right? When a friend asks you to hang out with them, politely decline. It’s really important to avoid meaningful social interaction.&lt;/p&gt;
+
+&lt;h4 id=&quot;doubt-yourself&quot;&gt;Doubt yourself&lt;/h4&gt;
+&lt;p&gt;There are so many people better than you out in the world. Many are better at sports than you. Many are better looking than you. Many are way smarter than you. You name it. They are all so much better, so why bother trying? Instead, find your self-worth in facebook likes and instagram followers.&lt;/p&gt;
+
+&lt;h4 id=&quot;despise-others&quot;&gt;Despise others&lt;/h4&gt;
+&lt;p&gt;Only notice the negatives about others, and take notice of every little thing that annoys you. Let that feeling grow and fester. If your roommate doesn’t do the dishes, despise him for it. If someone is worse at something than you, scoff at them. After all, you’re better than them, right?&lt;/p&gt;
+
+&lt;h4 id=&quot;ps&quot;&gt;P.S.&lt;/h4&gt;
+&lt;p&gt;You get the idea.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Inspired by a video from CGP Grey&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="random thoughts" /><summary type="html">Read this if you want...</summary></entry><entry><title type="html">Pipe Support Design at Andrews.engineer</title><link href="http://127.0.0.1:4000//andrewsmanhole/" rel="alternate" type="text/html" title="Pipe Support Design at Andrews.engineer" /><published>2017-08-31T00:00:00-04:00</published><updated>2017-08-31T00:00:00-04:00</updated><id>http://127.0.0.1:4000//andrewsmanhole</id><content type="html" xml:base="http://127.0.0.1:4000//andrewsmanhole/">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;During My past co-op term at &lt;a href=&quot;http://www.andrews.engineer&quot;&gt;Andrews.Engineer&lt;/a&gt;, I had the opportunity of modeling and helping to design a support system for a manhole and pipes that we were going to install in our warehouse.&lt;/p&gt;
+
+&lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+&lt;p&gt;This is the design I drafted in Google Sketchup.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/Andrews/mh overview wood boxes.png&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;construction&quot;&gt;Construction&lt;/h2&gt;
+&lt;p&gt;About a month later, construction began.&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;img src=&quot;/assets/img/Andrews/IMG_2566.JPG&quot; /&gt;
+	&lt;img src=&quot;/assets/img/Andrews/IMG_2567.jpeg&quot; /&gt;
+	&lt;img src=&quot;/assets/img/Andrews/IMG_2592.JPG&quot; /&gt;
+	&lt;figcaption&gt;Detailed shots of the interior; filling the boxes with gravel.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Unfortunately, the manhole support was not finished by the time I left to go back to school. This is how it looked like before my departure:&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/Andrews/IMG_2606.JPG&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I also had an opportunity to draft a fire escape floor plan for our warehouse!&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/Andrews/even more basic.pdf&quot; /&gt;
+&lt;/figure&gt;</content><category term="engineering" /><category term="andrews.engineer" /><summary type="html">A fun project during my summer 2017 co-op term</summary></entry><entry><title type="html">Is the title of a blog post really that important?</title><link href="http://127.0.0.1:4000//writing/" rel="alternate" type="text/html" title="Is the title of a blog post really that important?" /><published>2017-08-17T00:00:00-04:00</published><updated>2017-08-17T00:00:00-04:00</updated><id>http://127.0.0.1:4000//writing</id><content type="html" xml:base="http://127.0.0.1:4000//writing/">&lt;h4 id=&quot;on-writing-reading-music-etc&quot;&gt;On Writing, Reading, Music, etc.&lt;/h4&gt;
+&lt;p&gt;It’s been a really long time since I actually decided to sit down and write something. It’s been an outrageously long time. Since I no longer have to take mandatory English classes, I have barely written. (except for some technical reports for school, but that doesn’t count.) In this long hiatus, I realize for myself that writing is actually quite nice. There is something mysterious, something oddly beautiful about it.&lt;/p&gt;
+
+&lt;p&gt;I recently read “Dr. Jekyll and Mr. Hyde”, by Robert Louis Stevenson. The language on the first page struck me. No modern writer would have achieved the same effectiveness of presenting the characters. Every single word was placed for a reason; they were picked specifically for the author’s purpose. Nowadays, books are not the same. The word choice is simply not there; neither is the cohesiveness of the story. Of course, I’m not saying this for all modern books. It’s just that there has been a change in society. I know that this is very cliché, but in this day and age, we simply do not have the attention span, or the brain to appreciate true works of art.&lt;/p&gt;
+
+&lt;p&gt;Look at the music we listen to: Drake, Chance the Rapper, etc. Modern “hip” songs are just some random words thrown on top of a “sick beat”. Go back a few hundred years and you’ll find Mozart and Beethoven, among many other composers. With their works, you can hear the majestic melody of many interwoven parts for different instruments, fitting together seamlessly. Each note, each rest is placed on the score for a specific reason. As with reading and writing, we have regressed in our appreciation for music.&lt;/p&gt;
+
+&lt;p&gt;P.S. It was raining really hard today. I walked home without an umbrella and I got soaked. :p&lt;/p&gt;</content><category term="Random Thoughts" /><summary type="html">Just some writing.</summary></entry><entry><title type="html">Pensieve for 2016-17</title><link href="http://127.0.0.1:4000//pensieve2017/" rel="alternate" type="text/html" title="Pensieve for 2016-17" /><published>2017-06-30T00:00:00-04:00</published><updated>2017-06-30T00:00:00-04:00</updated><id>http://127.0.0.1:4000//pensieve2017</id><content type="html" xml:base="http://127.0.0.1:4000//pensieve2017/">&lt;blockquote&gt;
+  &lt;p&gt;Life is like a box of chocolates. You never know what you’re gonna get. - Forrest Gump&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since I just watched Forrest Gump yesterday, I wanted to reflect upon my university experience so far by using a box of chocolates. Supposed there was a box of 12 chocolates, entitled Vincent’s 2016-2017 school year, this is what you would find inside.&lt;/p&gt;
+
+&lt;p&gt;12 chocolates&lt;/p&gt;
+
+&lt;h4 id=&quot;start-of-university&quot;&gt;Start of University&lt;/h4&gt;
+
+&lt;p&gt;After 5 long years of high school, I finally started university. Orientation week was a blast, and I settled in quite nicely with my roommates. Classes were filled with new and exciting information.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Joining P2C&lt;/li&gt;
+  &lt;li&gt;Diverse Friendships&lt;/li&gt;
+  &lt;li&gt;Summit 2016 and Jesus Week&lt;/li&gt;
+  &lt;li&gt;Joining CCF&lt;/li&gt;
+  &lt;li&gt;School Life: Projects, Sports, Harry Potter&lt;/li&gt;
+  &lt;li&gt;Early Morning Devos&lt;/li&gt;
+  &lt;li&gt;Being referred for a co-op position&lt;/li&gt;
+  &lt;li&gt;Coding at my job&lt;/li&gt;
+  &lt;li&gt;Finding Jarvis Street Baptist Church.&lt;/li&gt;
+  &lt;li&gt;Hanging out with my cousin&lt;/li&gt;
+  &lt;li&gt;UTCCF!&lt;/li&gt;
+&lt;/ol&gt;</content><category term="University" /><summary type="html">Looking back at first year university and co-op</summary></entry><entry><title type="html">First Post!</title><link href="http://127.0.0.1:4000//first-post/" rel="alternate" type="text/html" title="First Post!" /><published>2017-06-25T00:00:00-04:00</published><updated>2017-06-25T00:00:00-04:00</updated><id>http://127.0.0.1:4000//first-post</id><content type="html" xml:base="http://127.0.0.1:4000//first-post/">&lt;p&gt;I’m finally done my blog! I have lots of work to do, so stay tuned for future posts!&lt;/p&gt;</content><category term="First post" /><summary type="html">Finally done my blog!!</summary></entry><entry><title type="html">This Blog</title><link href="http://127.0.0.1:4000//blogproject/" rel="alternate" type="text/html" title="This Blog" /><published>2017-06-25T00:00:00-04:00</published><updated>2017-06-25T00:00:00-04:00</updated><id>http://127.0.0.1:4000//blogproject</id><content type="html" xml:base="http://127.0.0.1:4000//blogproject/">&lt;h2 id=&quot;some-interesting-things-about-this-site&quot;&gt;Some Interesting Things about this site&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;made using Jekyll, using the Moon Template&lt;/li&gt;
+  &lt;li&gt;developed while listening to Port Blue on Spotify&lt;/li&gt;
+  &lt;li&gt;created in Toronto, Ontario, on my first co-op term&lt;/li&gt;
+  &lt;li&gt;would not be possible if it weren’t for the guidance of a good friend. (You know who you are!)&lt;/li&gt;
+&lt;/ul&gt;</content><category term="jekyll" /><category term="blog" /><summary type="html">Facts and more...</summary></entry></feed>
